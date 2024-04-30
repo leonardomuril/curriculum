@@ -1,0 +1,109 @@
+.text{
+    text-align: center;
+    font-size: 60px;
+    margin-left: 100px;
+    
+
+}
+.text2{
+    font-size: 50px;
+    text-align: center;
+    margin-left: 100px;
+}
+.conteiner{
+
+    display: grid; 
+    grid-template-columns: 25% 25% 25%;  
+    justify-content: center;
+
+
+}
+.bordes{
+    height: 1px;
+    background-color: black ;
+}
+.bordes1{
+
+color: darkgrey;
+border: 1px solid black;
+}
+.circulo1{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border-top: 5px solid blue;
+    border-right: 5px solid blue;
+    border-bottom: 5px solid blue;
+    border-left: 5px solid gray;
+    color: black;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.conteiner2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;  
+
+}
+.laboral{
+
+color: black;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+.laboral2{
+    font-style: oblique;
+}
+.laboral3{
+font-style: oblique;}
+.laboral4{
+font-style: oblique;}
+.laboral5{
+font-style: oblique;}
+ .laboral6{
+    font-style: oblique;
+ }
+ .supervisor {
+ color: black;
+ font-family: Georgia, 'Times New Roman', Times, serif;}
+
+.supervisor2{
+
+ font-style: oblique;}
+.educacion1{
+color: black;
+font-family: Georgia, 'Times New Roman', Times, serif;}
+.ing {
+font-style: oblique;}
+
+.ps{
+color: black;
+font-family: Georgia, 'Times New Roman', Times, serif;}
+
+.hobby{
+    display: grid; 
+    grid-template-columns: 1fr 1fr;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+}
+
+#division{
+     display: grid; 
+    grid-template-columns: 1fr 1fr;
+}
+
+
+         
+        
+        
+     
+         
+        
+
+
+
+
+    
+
