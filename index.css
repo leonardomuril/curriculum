@@ -74,9 +74,17 @@ font-style: oblique;}
  font-style: oblique;}
 .educacion1{
 color: black;
-font-family: Georgia, 'Times New Roman', Times, serif;}
+margin-left: 190px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+;  display: flexbox;
+justify-content: center;}
 .ing {
-font-style: oblique;}
+font-style: oblique;
+text-align: center;
+width: 400px;
+font-size: 25px;
+margin-left: 10%;
+ }
 
 .ps{
 color: black;
@@ -91,8 +99,23 @@ font-family: Georgia, 'Times New Roman', Times, serif;}
 
 #division{
      display: grid; 
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;}
+
+    .container3{
+        display: flex;
+        justify-content: center;}
+
+        .conteiner4{
+        
+
 }
+
+
+
+   
+       
+    
+
 
 
          
